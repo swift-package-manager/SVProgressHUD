@@ -1,3 +1,5 @@
 # SVProgressHUD
 
-A description of this package.
+[SVProgressHUD]的Swift Package Manager版本。
+
+[SVProgressHUD]: https://github.com/SVProgressHUD/SVProgressHUD
